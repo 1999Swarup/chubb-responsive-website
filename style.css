@@ -1,0 +1,72 @@
+.container {
+    background-color: rgb(255, 212, 236);
+    padding: 10px;
+    margin: 0px;
+    max-width: 100%;
+}
+
+.container-jumbo {
+    background-color: rgb(255, 212, 236);
+    margin: 0px;
+    padding: 10px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.container-jumbo-text {
+    background-color: rgb(255, 212, 236);
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.text-colorful {
+    color: rgb(238, 127, 146);
+}
+
+.nav-link {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+    text-align: center;
+}
+
+.class-link {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgba(34, 31, 31, 0.863);
+}
+
+.button-start {
+    background-color: fuchsia;
+    border: 0px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.text-shadow {
+    color: rgb(187, 186, 186);
+    margin-left: 0px;
+    margin-right: 10px;
+    font-style: italic;
+}
+
+.image-class {
+    margin-top: 50px;
+}
+
+.body-text-class {
+    margin-top: 50px;
+}
+
+.text-inner {
+    text-align: center;
+}
+
+.all-img-text {
+    display: grid;
+}
+
+.img-responsive {
+    margin-left: 150px;
+}
